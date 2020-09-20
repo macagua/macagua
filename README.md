@@ -48,6 +48,10 @@ I started programming in PHP at the end of 2004, using PHP 4 version and its suc
 
 I developed modules for the [SAID project](http://said.cenditel.gob.ve/wiki), using PHP 4, *Apache Web Server*, *PostgreSQL Database*, I created document manuals using *Emacs*, [Docbook](https://docbook.org/) with *SQML* and schedule *Makefile* tasks to automate processes for generating PDF, HTML. The **SAID project** is *"an ERP that allows the automation of the processes inherent to the Venezuelan public administration of decentralized entities without business purposes"*.
 
+### Yii developer
+
+As a [Yii](https://www.yiiframework.com/) applications developer, I have experience with Backend Web applications writing source code in [PHP](https://php.net/), *PostgreSQL*, *MySQL*, *JQuery* using Yii Framework 1 and 2 versions.
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=macagua&include_all_commits=true&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="Leonardo J. Caballero G.'s GitHub Stats"> </p>
 
 <br>
