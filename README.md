@@ -23,6 +23,10 @@ Also I am a Open source activist and contributor for several projects like [Open
 I has over 21 years experience in the area of Information Technology of which 18 years are unique in free and
 open-source software.
 
+## Python Developer
+
+I started Python programming in mid-2008, using Python 2 version (specifically version 2.4) and its successive versions up to the current version of Python 3. I have programmed with web frameworks such as [Zope](https://www.zope.org/), [Plone](https://plone.com/), [Pyramid](https://trypyramid.com/), [Django](https://djangoproject.com/), [Flask](https://flask.palletsprojects.com/) and [Odoo](https://www.odoo.com/).
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=macagua&include_all_commits=true&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="Leonardo J. Caballero G.'s GitHub Stats"> </p>
 
 <br>
