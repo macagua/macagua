@@ -32,6 +32,10 @@ I started Python programming in mid-2008, using Python 2 version (specifically v
 As a [Plone](https://plone.com/) applications developer, I am an Plone CMS Core Developer, a time ago I was accepted by the [Plone Foundation](https://plone.org/news/old-news/plone-foundation-welcomes-new-members) as active member, besides being appointed "[Ambassador for the Plone Foundation for Hispanic America](https://plone.org/foundation/board/ambassadors)". I am a technical reviewer of '[Packt publishing](https://lcaballero.wordpress.com/2010/09/05/un-pequeno-gran-logro/)'
 Editorial in the cookbook called "[Plone 3 Intranets](https://www.packtpub.com/web-development/plone-3-intranets)". My [Plone contributions list](https://macagua.github.io/plone/macagua.en.html).
 
+### Django developer
+
+As a [Django](https://djangoproject.com/) applications developer, I am an activist of Django and Free Software, offering contributions to translations to Spanish as [Emencia Django Newsletter](https://github.com/macagua/emencia-django-newsletter), [Read The Docs](https://www.djangopackages.com/packages/p/read-the-docs/), [Colab](https://www.djangopackages.com/packages/p/colab/) a Mashup application using at [Interlegis](https://colab.interlegis.leg.br/), part of the development of the website [elarropao.com](https://www.djangosites.org/author/macagua/) at the time Django innovate in providing validation improvements, local data types for Venezuela through [localflavor](https://github.com/macagua/django-local-flavor-ve). My [Django People profile](https://people.djangoproject.com/macagua/).
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=macagua&include_all_commits=true&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="Leonardo J. Caballero G.'s GitHub Stats"> </p>
 
 <br>
