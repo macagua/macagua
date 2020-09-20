@@ -27,6 +27,11 @@ open-source software.
 
 I started Python programming in mid-2008, using Python 2 version (specifically version 2.4) and its successive versions up to the current version of Python 3. I have programmed with web frameworks such as [Zope](https://www.zope.org/), [Plone](https://plone.com/), [Pyramid](https://trypyramid.com/), [Django](https://djangoproject.com/), [Flask](https://flask.palletsprojects.com/) and [Odoo](https://www.odoo.com/).
 
+### Plone developer
+
+As a [Plone](https://plone.com/) applications developer, I am an Plone CMS Core Developer, a time ago I was accepted by the [Plone Foundation](https://plone.org/news/old-news/plone-foundation-welcomes-new-members) as active member, besides being appointed "[Ambassador for the Plone Foundation for Hispanic America](https://plone.org/foundation/board/ambassadors)". I am a technical reviewer of '[Packt publishing](https://lcaballero.wordpress.com/2010/09/05/un-pequeno-gran-logro/)'
+Editorial in the cookbook called "[Plone 3 Intranets](https://www.packtpub.com/web-development/plone-3-intranets)". My [Plone contributions list](https://macagua.github.io/plone/macagua.en.html).
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=macagua&include_all_commits=true&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="Leonardo J. Caballero G.'s GitHub Stats"> </p>
 
 <br>
