@@ -9,7 +9,7 @@
 
 <!-- - 😄 Pronouns: **Coder**, **Orator** -->
 
-<p align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/assets/img/coder.gif" alt="Hacking coding" /> </p>
+<p align="center"> <img src="https://github.com/macagua/macagua/blob/master/assets/img/coder.gif" alt="Hacking coding" /> </p>
 
 
 # About Me
@@ -28,7 +28,7 @@ open-source software.
 <br>
 
 <h2>
-Connect with me <img src="https://github.com/tusharnankani/tusharnankani/blob/master/assets/img/handshake.gif" height="32px" alt="Connect with me" />
+Connect with me <img src="https://github.com/macagua/macagua/blob/master/assets/img/handshake.gif" height="32px" alt="Connect with me" />
 </h2>
 
 | [<img src="https://github.com/macagua/macagua/blob/master/assets/img/linkedin.svg" alt="Leonardo J. Caballero G. Linkedin" width="32">](https://linkedin.com/in/leonardojcaballerog) |  [<img src="https://github.com/macagua/macagua/blob/master/assets/img/instagram.svg" alt="Leonardo J. Caballero G. Instagram" width="32">](https://instagram.com/leonardojcaballerog/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Leonardo J. Caballero G. Github" width="34">](https://github.com/macagua) | [<img src="https://github.com/macagua/macagua/blob/master/assets/img/gmail.svg" alt="Leonardo J. Caballero G. Gmail" height="32">](mailto:leonardocaballero@gmail.com)
