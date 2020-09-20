@@ -36,6 +36,13 @@ Editorial in the cookbook called "[Plone 3 Intranets](https://www.packtpub.com/w
 
 As a [Django](https://djangoproject.com/) applications developer, I am an activist of Django and Free Software, offering contributions to translations to Spanish as [Emencia Django Newsletter](https://github.com/macagua/emencia-django-newsletter), [Read The Docs](https://www.djangopackages.com/packages/p/read-the-docs/), [Colab](https://www.djangopackages.com/packages/p/colab/) a Mashup application using at [Interlegis](https://colab.interlegis.leg.br/), part of the development of the website [elarropao.com](https://www.djangosites.org/author/macagua/) at the time Django innovate in providing validation improvements, local data types for Venezuela through [localflavor](https://github.com/macagua/django-local-flavor-ve). My [Django People profile](https://people.djangoproject.com/macagua/).
 
+### Odoo developer
+
+As a [Odoo](https://www.odoo.com/) applications developer, I was created Odoo customs solutions for Odoo localizations (Venezuelan and El Salvador) with Odoo 9 and Odoo 13 versions based. Also I worked as a [Odoo 9 functional instructor](http://www.ula.ve/diplomado-estrategia-diseno-informacion/) to build websites with e-commerce and CRM solutions, creating custom themes [Bootstrap](https://getbootstrap.com/) based at the [University of the Andes](http://www.ula.ve/) in Venezuela.
+
+I am an Odoo activist, offering contributions to Spanish translations to OpenERP/Odoo [Venezuelan localization](https://github.com/OCA/l10n-venezuela) for [Vauxoo](https://www.vauxoo.com/) (a Odoo partner), [Odoo.com](https://www.odoo.com/) website on several website add-ons using [Transifex platform](https://www.transifex.com/odoo/), also I help to translate into Spanish the [Odoo Development Essentials Book](https://fundamentos-de-desarrollo-en-odoo.readthedocs.io/).
+
+
 ## PHP developer
 
 I started programming in PHP at the end of 2004, using PHP 4 version and its successive versions like to PHP 5 version and PHP 7 version. I have programmed with the web frameworks such as [Yii](https://www.yiiframework.com/) also Packaging applications and components [PHAR PHP files](https://packagist.org/packages/macagua/) using the [composer](https://getcomposer.org/) tool.
