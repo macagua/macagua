@@ -42,10 +42,11 @@ As a [Odoo](https://www.odoo.com/) applications developer, I was created Odoo cu
 
 I am an Odoo activist, offering contributions to Spanish translations to OpenERP/Odoo [Venezuelan localization](https://github.com/OCA/l10n-venezuela) for [Vauxoo](https://www.vauxoo.com/) (a Odoo partner), [Odoo.com](https://www.odoo.com/) website on several website add-ons using [Transifex platform](https://www.transifex.com/odoo/), also I help to translate into Spanish the [Odoo Development Essentials Book](https://fundamentos-de-desarrollo-en-odoo.readthedocs.io/).
 
-
 ## PHP developer
 
 I started programming in PHP at the end of 2004, using PHP 4 version and its successive versions like to PHP 5 version and PHP 7 version. I have programmed with the web frameworks such as [Yii](https://www.yiiframework.com/) also Packaging applications and components [PHAR PHP files](https://packagist.org/packages/macagua/) using the [composer](https://getcomposer.org/) tool.
+
+I developed modules for the [SAID project](http://said.cenditel.gob.ve/wiki), using PHP 4, *Apache Web Server*, *PostgreSQL Database*, I created document manuals using *Emacs*, [Docbook](https://docbook.org/) with *SQML* and schedule *Makefile* tasks to automate processes for generating PDF, HTML. The **SAID project** is *"an ERP that allows the automation of the processes inherent to the Venezuelan public administration of decentralized entities without business purposes"*.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=macagua&include_all_commits=true&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="Leonardo J. Caballero G.'s GitHub Stats"> </p>
 
