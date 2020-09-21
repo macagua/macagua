@@ -42,7 +42,7 @@ As a [Django](https://djangoproject.com/) applications developer, I am an activi
 
 ### Odoo developer
 
-As a [Odoo](https://www.odoo.com/) applications developer, I was created Odoo customs solutions for Odoo localizations (Venezuelan and El Salvador) with Odoo 9 and Odoo 13 versions based. Also I worked as a [Odoo 9 functional instructor](http://www.ula.ve/diplomado-estrategia-diseno-informacion/) to build websites with e-commerce and CRM solutions, creating custom themes [Bootstrap](https://getbootstrap.com/) based at the [University of the Andes](http://www.ula.ve/) in Venezuela.
+As an [Odoo](https://www.odoo.com/) applications developer, I was created Odoo customs solutions for Odoo localizations (Venezuelan and El Salvador) with Odoo 9 and Odoo 13 versions based. Also I worked as an [Odoo 9 functional instructor](http://www.ula.ve/diplomado-estrategia-diseno-informacion/) to build websites with e-commerce and CRM solutions, creating custom themes [Bootstrap](https://getbootstrap.com/) based at the [University of the Andes](http://www.ula.ve/) in Venezuela.
 
 I am an Odoo activist, offering contributions to Spanish translations to OpenERP/Odoo [Venezuelan localization](https://github.com/OCA/l10n-venezuela) for [Vauxoo](https://www.vauxoo.com/) (a Odoo partner), [Odoo.com](https://www.odoo.com/) website on several website add-ons using [Transifex platform](https://www.transifex.com/odoo/), also I help to translate into Spanish the [Odoo Development Essentials Book](https://fundamentos-de-desarrollo-en-odoo.readthedocs.io/).
 
@@ -82,7 +82,7 @@ I started programming for mobile devices in building websites in early 2013, add
 
 ### Android developer
 
-As a [Android](https://www.android.com/) applications developer, [plone_site_into_mobile](https://github.com/macagua/plone_site_into_mobile) (an Webview Android native app for Plone CMS) written in [Java](https://www.oracle.com/java/).
+As an [Android](https://www.android.com/) applications developer, [plone_site_into_mobile](https://github.com/macagua/plone_site_into_mobile) (an Webview Android native app for Plone CMS) written in [Java](https://www.oracle.com/java/).
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=macagua&include_all_commits=true&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="Leonardo J. Caballero G.'s GitHub Stats"> </p>
 
