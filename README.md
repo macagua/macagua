@@ -66,6 +66,10 @@ I have experience creating CRM/ERP web application using *Java j2EE*, *Tomcat se
 
 I started programming in [Javascript](https://www.oracle.com/java/) to build websites in early 2000, adding dynamism and behavior on the Web client side, but it was only until 2017 that I had the opportunity to work on a Javascript framework like [Vue.js](https://vuejs.org/) to develop my first Progressive Web Application.
 
+### Vue.js developer
+
+As a [Vue.js](https://vuejs.org/) applications developer, I has experiencie creating [Progressive Web Applications](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp), it were written source code in Javascript, HTML, CSS using Vue.js framework with a professional and custom web template.
+
 <br>
 
 <h2>
