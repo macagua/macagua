@@ -82,6 +82,8 @@ As a [Android](https://www.android.com/) applications developer, [plone_site_int
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=macagua&include_all_commits=true&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="Leonardo J. Caballero G.'s GitHub Stats"> </p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macagua&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Leonardo J. Caballero G.'s Most Used Languages"> </p>
+
 <br>
 
 <h2>
