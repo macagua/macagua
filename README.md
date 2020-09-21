@@ -70,6 +70,10 @@ I started programming in [Javascript](https://www.oracle.com/java/) to build web
 
 As a [Vue.js](https://vuejs.org/) applications developer, I has experiencie creating [Progressive Web Applications](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp), it were written source code in Javascript, HTML, CSS using Vue.js framework with a professional and custom web template.
 
+### React.js developer
+
+As a [React.js](https://reactjs.org/) applications developer, I has experiencie adding internationalization and localization support and testing for [Volto CMS](https://docs.voltocms.com/) project, is a new React-based frontend for [Plone](https://plone.com/).
+
 <br>
 
 <h2>
