@@ -7,6 +7,12 @@
 
 - 🌱 I'm currently learning *React.js, Vue.js, Odoo, Laravel* and how to **flex my profile's [README.md](https://github.com/macagua/macagua/blob/master/README.md)** 💪.
 
+- 🔭 I'm currently working on upgrade my **Competitive Coding Skills**.
+
+- 👯 I'm looking to collaborate on **Open Sourced** Projects on *Web Devlopment* and *Python* 🐍 related Projects.
+
+- 🤔 I'm looking for help with *Machine Learning & Data Science.*
+
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/leonardojcaballerog/) or <a href="mailto:leonardocaballero@gmail.com" title="Leonardo J. Caballero G. Gmail">Email</a>
 
 - 📝 <a href="https://drive.google.com/file/d/1k_5o_zS_gUonbbolHGP__TWA34gVWFtr/view?usp=sharing" title="Leonardo J. Caballero G. Resume" target="_blank">My Resume</a>
