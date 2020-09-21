@@ -24,14 +24,12 @@
 
 # About Me
 
-I am a partner of [PloneGov](http://plonegov.org/) communities such as [IMIO](http://www.imio.be/)
+I has over 21 years experience in the area of Information Technology of which 18 years are unique in free and
+open-source software. I am a partner of [PloneGov](http://plonegov.org/) communities such as [IMIO](http://www.imio.be/)
 (old [CommunesPlone](http://plonegov.org/subcommunities/)) in *Belgium*; [Interlegis](http://www.interlegis.leg.br/)
 in [Brazilian Federal Senate](http://colab.interlegis.leg.br/user/leonardocaballero).
 
 Also I am a Open source activist and contributor for several projects like [Opencore Software](https://github.com/socialplanning/opencore/blob/master/opencore/locales/es/LC_MESSAGES/opencore.po) used in the [CoActivate.org](http://www.coactivate.org/) initiative in USA, the [World Forum Social](https://en.wikipedia.org/wiki/World_Social_Forum) platform called "[OpenFSM](http://openfsm.net/)" used in France, Africa and [Canaima GNU/Linux](http://canaima.softwarelibre.gob.ve/) (a Debian-based GNU/Linux distribution from Venezuelan government).
-
-I has over 21 years experience in the area of Information Technology of which 18 years are unique in free and
-open-source software.
 
 ## Python Developer
 
