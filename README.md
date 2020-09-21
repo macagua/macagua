@@ -9,7 +9,7 @@
 
 <!-- - 😄 Pronouns: **Coder**, **Orator** -->
 
-<p align="center"> <img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/coder.gif" alt="Hacking coding" /> </p>
+<!-- <p align="center"> <img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/coder.gif" alt="Hacking coding" /> </p> -->
 
 
 # About Me
@@ -60,8 +60,6 @@ I started programming in [Java](https://www.oracle.com/java/) at the mid-2002. I
 
 I have experience creating CRM/ERP web application using *Java j2EE*, *Tomcat server*, *Servlets*, *JSP*, *PostgreSQL* and *Informix 4gl* Databases.
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=macagua&include_all_commits=true&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="Leonardo J. Caballero G.'s GitHub Stats"> </p>
-
 ## Javascript Developer
 
 I started programming in [Javascript](https://www.oracle.com/java/) to build websites in early 2000, adding dynamism and behavior on the Web client side, but it was only until 2017 that I had the opportunity to work on a Javascript framework like [Vue.js](https://vuejs.org/) to develop my first Progressive Web Application.
@@ -81,6 +79,8 @@ I started programming for mobile devices in building websites in early 2013, add
 ### Android developer
 
 As a [Android](https://www.android.com/) applications developer, [plone_site_into_mobile](https://github.com/macagua/plone_site_into_mobile) (an Webview Android native app for Plone CMS) written in [Java](https://www.oracle.com/java/).
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=macagua&include_all_commits=true&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="Leonardo J. Caballero G.'s GitHub Stats"> </p>
 
 <br>
 
