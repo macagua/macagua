@@ -74,6 +74,10 @@ As a [Vue.js](https://vuejs.org/) applications developer, I has experiencie crea
 
 As a [React.js](https://reactjs.org/) applications developer, I has experiencie adding internationalization and localization support and testing for [Volto CMS](https://docs.voltocms.com/) project, is a new React-based frontend for [Plone](https://plone.com/).
 
+## Mobile Developer
+
+I started programming for mobile devices in building websites in early 2013, adding responsive web designs for Python and PHP web applications using libraries like *JQuery*, [Patternslib](https://patternslib.com/) and web frameworks like [Bootstrap](https://getbootstrap.com/), [MaterializeCss](http://materializecss.com/).
+
 <br>
 
 <h2>
